@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+off_image_test/off_image_test/
+off_image_train/off_image_train/
+.offline-test.pkl
+.offline-train.pkl 
